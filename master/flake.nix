@@ -11,6 +11,7 @@
   inputs.src-nimgit2-master.ref   = "refs/heads/master";
   inputs.src-nimgit2-master.owner = "genotrance";
   inputs.src-nimgit2-master.repo  = "nimgit2";
+  inputs.src-nimgit2-master.dir   = "";
   inputs.src-nimgit2-master.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
